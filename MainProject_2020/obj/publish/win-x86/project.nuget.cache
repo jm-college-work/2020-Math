@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jz2zY08sMX8WS0244JBwRKUfe2j+Zg+y8zmWLPHLMLJnMLKlCsm+48tsPlPuR1RmBqdqVjF9zvThkoJh20FUJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joedm\\OneDrive - Limerick Institute Of Technology\\Discrete Mathematics\\Project\\Upload\\MainProject_2020\\MainProject_2020.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joedm\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.9\\microsoft.netcore.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\joedm\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\joedm\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x86.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
